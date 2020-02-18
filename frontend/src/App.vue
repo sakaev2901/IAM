@@ -2,6 +2,11 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view/>
+    <v-btn color="red">
+      Првет
+    </v-btn>
+    <v-btn small color="warning" dark >Small Button</v-btn>
+
   </div>
 </template>
 
